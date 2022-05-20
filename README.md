@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joewy2k
+- 👋 Hi, I’m Ogwuche Joseph @joewy2k
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Data science project and ML
